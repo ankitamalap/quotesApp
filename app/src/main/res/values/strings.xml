@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuotesApp</string>
+    <string name="quotes">Quotes</string>
+    <string name="sample">This ia a sample. you type anything you want.</string>
+</resources>
